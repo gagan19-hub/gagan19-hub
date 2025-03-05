@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on website develop using java full stack<br>🌱 I’m currently learning java stack development<br>
-
+🔭 I’m currently working on website develop using java full stack<br>🌱 I’m currently learning java stack development<br
+<img src="/https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif>300x225.jpg" width="300" height="225" /></a>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gagan_chodipalli) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/gagan-chodipalli) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chodipalligagan@gmail.com) 
