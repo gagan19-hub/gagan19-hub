@@ -1,6 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on website develop using java full stack<br>🌱 I’m currently learning java stack development<br
-<img src="/https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif>300x225.jpg" width="300" height="225" /></a>
+🔭 I’m currently working on website develop using java full stack<br>🌱 I’m currently learning java stack development
+<div align="center">
+<img src="https://imgs.search.brave.com/03CylaecA_WqbTsv4LyodqwPPbbDLjTGY_sXBoBNKvQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTAuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhaVFEzYW5KNE1X/NXROak5zWlhrMmFU/UjNhekZtY25Kd2Ey/cG9PWEIyTkRKdE5U/a3phWGQ1YnlabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4va3lwMGs3V3VM/ejc5aXMwYXpnLzEw/MC5naWY.gif" width="700" height="150" /></a>
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gagan_chodipalli) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/gagan-chodipalli) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chodipalligagan@gmail.com) 
@@ -17,5 +19,10 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=gagan19-hub&icon=4&color=1)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://profile-counter.glitch.me/gagan19-hub/count.svg?"  />
+</div>
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
